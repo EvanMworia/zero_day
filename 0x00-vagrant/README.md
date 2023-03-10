@@ -1,1 +1,2 @@
-this readme file describes the task in this repo
+#!/bin/bash
+I sshd to my ubuntu and now lets see if i did it well
